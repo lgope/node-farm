@@ -3,6 +3,8 @@ This is a mini project which is Node-Farm. Using node.js file system. 🗽👩�
 
 ## Technologies Used :
 <ul>
+<li><b>html5 </b></li>
+<li><b>css3 </b></li>
 <li><b>Nodejs </b></li>
 <li><b>Expressjs </b></li>
 <li><b>File System </b></li>
