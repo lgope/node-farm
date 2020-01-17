@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lakshmangope/Node-Farm.git"
+    "url": "git+https://github.com/lgope/node-farm.git"
   },
   "author": "Lakshman",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Lakshmangope/Node-Farm/issues"
+    "url": "https://github.com/lgope/node-farm/issues"
   },
-  "homepage": "https://github.com/Lakshmangope/Node-Farm#readme",
+  "homepage": "https://github.com/lgope/node-farm#readme",
   "dependencies": {
     "slugify": "~1.3.5"
   },
